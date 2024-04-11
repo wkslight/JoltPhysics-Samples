@@ -1,0 +1,19 @@
+[submodule "libraries/JoltPhysics"]
+	path = libraries/JoltPhysics
+	url = https://github.com/wkslight/JoltPhysics.git
+[submodule "premake5-modules/vspropertysheets"]
+	path = premake5-modules/vspropertysheets
+	url = https://github.com/ignite720/premake-vspropertysheets.git
+[submodule "premake5-modules/wkslight"]
+	path = premake5-modules/wkslight
+	url = https://github.com/ignite720/premake-wkslight.git
+[submodule "premake5-modules/emscripten"]
+	path = premake5-modules/emscripten
+	url = https://github.com/ignite720/premake-emscripten.git
+[submodule "premake5-modules/android-studio"]
+	path = premake5-modules/android-studio
+	url = https://github.com/ignite720/premake-android-studio
+[submodule "premake5-modules/winrt"]
+	path = premake5-modules/winrt
+	url = https://github.com/ignite720/premake-winrt.git
+	branch = win10
